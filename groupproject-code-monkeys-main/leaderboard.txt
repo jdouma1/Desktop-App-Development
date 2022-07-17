@@ -1,0 +1,5 @@
+Easy   	1. gep 26		2. hat 23		3. koi 22		4. jj 20		5. iop 19	
+
+Medium	1. yike 37		2. uop 35		3. tate 32		4. pet 31		5. gom 30	
+
+Hard   	1. ruy 48		2. chris 47		3. huy 46		4. kil 45		5. bad 38	
