@@ -1,4 +1,4 @@
-# Java-Development
+# Java-Desktop-App-Development
 In collaboration with @:
 - jsena1
 - nfantinodyer
