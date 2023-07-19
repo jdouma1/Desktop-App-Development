@@ -1,4 +1,4 @@
-# Desktop-App-Development
+# Gaming_Application
 In collaboration with @:
 - jsena1
 - nfantinodyer
