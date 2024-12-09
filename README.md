@@ -6,7 +6,7 @@ In collaboration with @:
 - nathanho202
 - stephtorres24
 
-Group project practicing collaboration, professional practice, and application development in Java
+Group project practicing team collaboration, SDLC, and application development in Java
 
 Code imported from group organization and repository:
 
